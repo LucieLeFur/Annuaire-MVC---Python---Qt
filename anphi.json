@@ -1,0 +1,16 @@
+{ "annuaire": [
+	{ 	"genre": "M", 
+		"prenom": "Pierre Louis", 
+		"nom": "Moreau de Maupertuis", 
+		"naissance": "1698-09-28", 
+		"mort": "1759-07-27", 
+		"bio": "..."
+	},
+	{ 	"genre": "M", 
+		"prenom": "Jean", 
+		"nom": "Bernoulli", 
+		"naissance": "1676-08-27", 
+		"mort": "1748-01-01", 
+		"bio": "..."
+	}
+]}
